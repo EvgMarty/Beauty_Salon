@@ -1,0 +1,25 @@
+@import 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=EB+Garamond:wght@400;600&display=swap';
+
+body{
+   font-family: 'Cormorant Garamond', serif;
+   font-family: 'EB Garamond', serif;
+   color: #fff;
+   background: #111111;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 1.3;
+   letter-spacing: 2.2px;
+}
+
+.container{
+   max-width: 1296px;
+   margin: 0 auto;
+   padding: 10px;
+}
+
+.noscroll {
+   overflow: hidden;
+}
+
+
+

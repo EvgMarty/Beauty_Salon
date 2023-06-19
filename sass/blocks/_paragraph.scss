@@ -1,0 +1,21 @@
+.paragraph__wrap {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.paragraph__brackets {
+   width: 80px;
+   height: 64px;
+   margin: 110px 0 60px;
+}
+
+.paragraph__p{
+   max-width: 856px;
+   padding: 20px;
+   text-align: center;
+
+   &:last-child{
+      margin-bottom: 20px;
+   }
+}
